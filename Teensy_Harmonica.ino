@@ -12,7 +12,7 @@
 #define MAX_PRESSURE 740
 // The minimum raw pressure value you can generate by
 // drawing on a tube.
-#define MAX_PRESSURE 290
+#define MIN_PRESSURE 290
 
 // The three states of our state machine
 // No note is sounding
